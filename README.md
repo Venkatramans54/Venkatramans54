@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# 💫 About Me:
 🔭 I’m currently working on delivering high-quality, user-centric solutions at HackerRank as a Senior SDET in Bangalore. I collaborate across teams to ensure seamless, scalable, and reliable products that empower developers and hiring managers alike.<br><br>👯 I’m looking to collaborate on impactful tech projects—especially those focusing on automation, integrations, developer experience, or hiring tech.<br><br>🤝 I’m looking for help with exploring Gen-AI solutions that can optimize test infrastructure, developer workflows, and product delivery pipelines.<br><br>🌱 I’m currently learning more about AI-driven testing tools and advanced platform engineering practices to further streamline development and testing cycles.<br><br>💬 Ask me about test automation, flaky test debugging, building e2e integration frameworks, or enhancing developer workflows—happy to share and learn!<br><br>⚡ Fun fact: I help power hiring tech at scale—if you've taken a coding assessment during a job interview, there's a chance my work helped make it happen!
 
 
